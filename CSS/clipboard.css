@@ -4,7 +4,7 @@ body {
     width: 100vw;
     height: 100vh;
     overflow-x: hidden;
-    background-image: url("/images/bg-header-desktop.png");
+    background-image: url("../images/bg-header-desktop.png");
     background-repeat: no-repeat;
     background-size: contain;
 
@@ -140,7 +140,7 @@ body {
     
     width: 55vw;
     height: 620px;
-    background-image:url("/images/image-computer.png");
+    background-image:url("../images/image-computer.png");
     background-repeat: no-repeat;
     background-size: cover;
   background-position: right;
@@ -384,7 +384,7 @@ width: 20px;
     .picture-wrap {
         width: 55vw;
         height: 620px;
-        background-image: url("/images/image-computer.png");
+        background-image: url("../images/image-computer.png");
         background-repeat: no-repeat;
         background-size: contain;
         background-position: right;
@@ -411,7 +411,7 @@ width: 20px;
     .picture-wrap {
         width: 55vw;
         height: 620px;
-        background-image: url("/images/image-computer.png");
+        background-image: url("../images/image-computer.png");
         background-repeat: no-repeat;
         background-size: contain;
         background-position: right;
@@ -503,7 +503,7 @@ width: 20px;
     .picture-wrap {
         width: 50vw;
         height: 600px;
-        background-image: url("/images/image-computer.png");
+        background-image: url("../images/image-computer.png");
         background-repeat: no-repeat;
         background-size: contain;
         background-position: right;
@@ -600,7 +600,7 @@ width: 20px;
 @media (max-width:376px) {
 
     body {
-        background-image: url("/images/bg-header-mobile.png");
+        background-image: url("../images/bg-header-mobile.png");
         background-repeat: no-repeat;
         background-size: contain;
 
