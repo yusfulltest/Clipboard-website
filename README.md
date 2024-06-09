@@ -1,6 +1,7 @@
 # Frontend Mentor - Clipboard landing page
 
-![My Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
+![My Design preview for the Clipboard landing page coding challenge](/images/sitepreview.png)
+I added animation to the the logo and other images. Screenshot taking with animation in effect.
 
 ## Welcome! 👋
 
